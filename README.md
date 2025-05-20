@@ -16,7 +16,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Career Counselling
 
 ** Evidence**  
-- ![Career Counselling Certificate](certificates/career-development.png)  
+- ![Career Counselling Certificate](career-development.png)  
 - Reflection journal from group coaching sessions  
 - Personal career roadmap  
 
