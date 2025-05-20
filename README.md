@@ -16,7 +16,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Career Counselling
 
 ** Evidence**  
-- ![Career Counselling Certificate](certificates/career-counselling-cert.jpg)  
+- ![Career Counselling Certificate](certificates/career-development.png)  
 - Reflection journal from group coaching sessions  
 - Personal career roadmap  
 
@@ -31,7 +31,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Skills and Interests
 
 ** Evidence**  
-- ![Skills and Interests Certificate](certificates/skills-interests-cert.jpg)  
+- ![Skills and Interests Certificate](certificates/skills-and-interests.png)  
 - Skills matrix highlighting frontend and backend capabilities  
 - Visual mind map of my interests in UX, UI, accessibility, and component-driven development  
 
@@ -46,7 +46,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Personality Assessment
 
 ** Evidence**  
-- ![Personality Assessment Certificate](certificates/personality-assessment-cert.jpg)  
+- ![Personality Assessment Certificate](certificates/personality-assessment.png)  
 - MBTI results and teamwork profile  
 - Summary of personality strengths relevant to development roles  
 
@@ -61,7 +61,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Create A CV
 
 ** Evidence**  
-- ![Create A CV Certificate](certificates/create-cv-cert.jpg)  
+- ![Create A CV Certificate](certificates/create-a-cv.png)  
 - My CV (tailored for web dev roles) in PDF and DOCX formats  
 - Feedback notes from mentors and peers  
 
