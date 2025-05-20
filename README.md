@@ -76,7 +76,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## CV Submission
 
 ** Evidence**  
-- ![CV Submission Certificate](cv-submission.pdf)  
+- [CV Submission Certificate (PDF)](cv-submission.pdf)
 - Email templates and cover letter samples I created  
 - Job tracker spreadsheet (with dates, contacts, feedback)  
 
