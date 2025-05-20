@@ -1,7 +1,7 @@
 #  Simphiwe Mvumvu – Digital Portfolio
 
 **Intern Front-End Developer @ Plum Systems**  
-🎓 Final year IT student | 💻 Web Developer | 🧠 Curious Learner | 🚀 Focused on Growth  
+ Final year IT student |Web Developer |Curious Learner |Focused on Growth  
 
 ---
 
@@ -88,15 +88,10 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 
 ---
 
-## Tech Stack
+## Tech Skills
 
-**Frontend:**
+**Front-End:**  
+`HTML`, `CSS`, `Bootstrap`, `JavaScript`, `React`, `Angular`
 
-```html
-HTML | CSS | Bootstrap | JavaScript | React | Angular
-
-**Backend:**
-
-
-```html 
-Node.js | Express.js | MongoDB
+**Back-End:**  
+`Node.js`, `Express.js`, `MongoDB`
