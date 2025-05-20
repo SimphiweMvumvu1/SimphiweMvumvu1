@@ -31,7 +31,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Skills and Interests
 
 ** Evidence**  
-- ![Skills and Interests Certificate](certificates/skills-and-interests.png)  
+- ![Skills and Interests Certificate](skills-and-interests.png)  
 - Skills matrix highlighting frontend and backend capabilities  
 - Visual mind map of my interests in UX, UI, accessibility, and component-driven development  
 
@@ -46,7 +46,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Personality Assessment
 
 ** Evidence**  
-- ![Personality Assessment Certificate](certificates/personality-assessment.png)  
+- ![Personality Assessment Certificate](personality-assessment.png)  
 - MBTI results and teamwork profile  
 - Summary of personality strengths relevant to development roles  
 
@@ -61,7 +61,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Create A CV
 
 ** Evidence**  
-- ![Create A CV Certificate](certificates/create-a-cv.png)  
+- ![Create A CV Certificate](create-a-cv.png)  
 - My CV (tailored for web dev roles) in PDF and DOCX formats  
 - Feedback notes from mentors and peers  
 
@@ -76,7 +76,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## CV Submission
 
 ** Evidence**  
-- ![CV Submission Certificate](certificates/cv-submission-cert.jpg)  
+- ![CV Submission Certificate](cv-submission-cert.jpg)  
 - Email templates and cover letter samples I created  
 - Job tracker spreadsheet (with dates, contacts, feedback)  
 
