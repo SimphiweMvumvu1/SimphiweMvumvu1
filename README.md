@@ -7,7 +7,7 @@
 
 ##  About Me
 
-Hi there! I'm **Simphiwe Mvumvu**, a front-end development intern at **Plum Systems** and a final-year IT student at CPUT. I’m passionate about turning complex problems into clean, responsive user interfaces using tools like React, Angular, JavaScript, and good old HTML/CSS.
+Hi there! I'm **Simphiwe Mvumvu**, a front-end development intern at **Plum Systems** and a final-year Multimedia Applications student at CPUT. I’m passionate about turning complex problems into clean, responsive user interfaces using tools like React, Angular, JavaScript, and good old HTML/CSS.
 
 What you're seeing here is more than just a portfolio, it's a snapshot of my journey: what I’ve learned, the steps I’ve taken to grow, and how I’m applying it all in the real world. This digital portfolio is aligned with a formal rubric that measures both technical evidence and self-reflection through the STAR (Situation, Task, Action, Result) technique.
 
@@ -16,14 +16,14 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Career Counselling
 
 ** Evidence**  
-- ![Career Counselling Certificate](career-development.png)  
+ ![Career Counselling Certificate](career-development.png)  
 - Reflection journal from group coaching sessions  
 - Personal career roadmap  
 
 ** Reflection (STAR Technique)**  
 **S**: Before starting my internship, I felt overwhelmed by the range of roles in tech and unsure where I belonged.  
 **T**: I joined a career counselling program to figure out a path that matches both my personality and strengths.  
-**A**: I went through values exercises, skill discovery workshops, and one-on-one coaching.  
+**A**: I went through values exercises, skill discovery workshops,and used the knowledge I gained to become better at what I do  
 **R**: I discovered a natural alignment with front-end development—creative, technical, and user-centered. That clarity helped me apply confidently for internships and led to my current role at Plum Systems.
 
 ---
@@ -31,7 +31,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Skills and Interests
 
 ** Evidence**  
-- ![Skills and Interests Certificate](skills-and-interests.png)  
+ ![Skills and Interests Certificate](skills-and-interests.png)  
 - Skills matrix highlighting frontend and backend capabilities  
 - Visual mind map of my interests in UX, UI, accessibility, and component-driven development  
 
@@ -46,7 +46,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Personality Assessment
 
 ** Evidence**  
-- ![Personality Assessment Certificate](personality-assessment.png)  
+ ![Personality Assessment Certificate](personality-assessment.png)  
 - MBTI results and teamwork profile  
 - Summary of personality strengths relevant to development roles  
 
@@ -61,7 +61,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Create A CV
 
 ** Evidence**  
-- ![Create A CV Certificate](create-a-cv.png)  
+ ![Create A CV Certificate](create-a-cv.png)  
 - My CV (tailored for web dev roles) in PDF and DOCX formats  
 - Feedback notes from mentors and peers  
 
