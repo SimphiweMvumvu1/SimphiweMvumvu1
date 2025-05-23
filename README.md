@@ -1,4 +1,4 @@
-#  Simphiwe Mvumvu – Digital Portfolio
+#   Digital Portfolio: Simphiwe Mvumvu 
 
 **Intern Front-End Developer @ Plum Systems**  
  Final year Multimedia Applications student |Web Developer|Focused on Growth  
