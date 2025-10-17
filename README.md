@@ -115,7 +115,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Business Communication
 
 **Evidence**  
-![Business Communication Certificate](Business-Communication-Certificate.png)  
+![Business Communication Certificate](Business%20Communication%20Certificate.png)  
 - Professional email correspondence samples  
 - Meeting minutes and presentation materials  
 
@@ -133,7 +133,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Interview Skills
 
 **Evidence**  
-![Interview Skills Certificate](Interview-Skills-Certificate.png)  
+![Interview Skills Certificate](Interview%20Skills%20Certificate.png)  
 - Interview preparation notes and question bank  
 - Recording of practice technical interviews  
 
@@ -169,7 +169,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Professional Networking
 
 **Evidence**  
-![Professional Networking Certificate](Professional-Networking-Certificate.png)  
+![Professional Networking Certificate](Professional%20Networking%20Certificate.png)  
 - LinkedIn profile optimization screenshots  
 - Event attendance records and connection notes  
 
@@ -187,7 +187,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Workplace Etiquette
 
 **Evidence**  
-![Workplace Etiquette Certificate](Workplace-Etiquette-Certificate.png)  
+![Workplace Etiquette Certificate](Workplace%20Etiquette%20Certificate.png)  
 - Team collaboration guidelines  
 - Professional conduct self-assessment  
 
