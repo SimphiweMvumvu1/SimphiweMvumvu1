@@ -181,19 +181,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 
 ---
 
-## Academic Performance Summary
-
-| Module | Grade | Status |
-|--------|-------|--------|
-| Business Communication | 100/100 | Excellent |
-| Interview Skills | 80/100 | Proficient |
-| Professional Networking | 100/100 | Excellent |
-| Workplace Etiquette | 80/100 | Proficient |
-
-**Overall Performance: Consistently meeting or exceeding expectations**
-
----
-
 ## Next Steps & Goals
 
 ### Immediate Focus
