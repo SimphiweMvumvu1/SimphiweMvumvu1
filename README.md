@@ -17,26 +17,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 
 **Completion Status: 12 of 19 modules completed**
 
-### Completed Modules
-- PRP37X5 SUBJECT GUIDE
-- Student Acknowledgement  
-- CAREER DEVELOPMENT
-- Skills and Interests
-- Personality Assessment
-- Create a CV
-- CV Submission
-- Business Communication
-- Interview Skills
-- Mock Interview Video
-- Professional Networking
-- Workplace Etiquette
-
-### Pending Modules
-- ◻️ WIL-DPDX
-- ◻️ Job Search
-
----
-
 ## Career Counselling
 
 **Evidence**  
@@ -119,9 +99,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 - Professional email correspondence samples  
 - Meeting minutes and presentation materials  
 
-**Assessment Results: 100/100**  
-**Status: Completed with excellence**
-
 **Reflection (STAR Technique)**  
 **S**: As I transitioned into professional environments, I needed to adapt my communication style from academic to business-appropriate.  
 **T**: My goal was to master professional written and verbal communication for tech workplace settings.  
@@ -136,9 +113,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ![Interview Skills Certificate](Interview%20Skills%20Certificate.png)  
 - Interview preparation notes and question bank  
 - Recording of practice technical interviews  
-
-**Assessment Results: 80/100**  
-**Status: Completed - Proficient level**
 
 **Reflection (STAR Technique)**  
 **S**: Technical interviews initially felt intimidating, especially coding challenges under time pressure.  
@@ -155,9 +129,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 - Recorded mock technical interview  
 - Self-assessment and feedback documentation  
 
-**Status: Completed**  
-**Due: March 21, 2025**
-
 **Reflection (STAR Technique)**  
 **S**: I needed authentic practice in a high-pressure interview simulation.  
 **T**: Create and analyze a recorded mock interview to identify strengths and areas for improvement.  
@@ -173,8 +144,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 - LinkedIn profile optimization screenshots  
 - Event attendance records and connection notes  
 
-**Assessment Results: 100/100**  
-**Status: Completed with excellence**
 
 **Reflection (STAR Technique)**  
 **S**: I recognized that technical skills alone aren't enough—building professional relationships is crucial for career growth.  
@@ -190,10 +159,6 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ![Workplace Etiquette Certificate](Workplace%20Etiquette%20Certificate.png)  
 - Team collaboration guidelines  
 - Professional conduct self-assessment  
-
-**Assessment Results: 80/100**  
-**Status: Completed - Proficient level**  
-**Due: March 28, 2025**
 
 **Reflection (STAR Technique)**  
 **S**: Transitioning from academic to professional environments required understanding unwritten workplace rules.  
