@@ -125,7 +125,7 @@ What you're seeing here is more than just a portfolio, it's a snapshot of my jou
 ## Mock Interview Video
 
 **Evidence**  
-![Mock Interview Certificate](mock-interview.png)  
+![Mock Interview Certificate](SimphiweMvumvu%20Mock%20Interview.png)  
 - Recorded mock technical interview  
 - Self-assessment and feedback documentation  
 
